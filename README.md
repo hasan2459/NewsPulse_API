@@ -37,7 +37,7 @@ fetches news articles using the GNews API.
 
 6. Run the application:
 
-   streamlit run app.py
+   streamlit run main.py
 
 ## Security
 
